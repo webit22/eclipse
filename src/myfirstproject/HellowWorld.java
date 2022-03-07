@@ -9,5 +9,10 @@ public class HellowWorld {
 		System.out.println("how");
 		System.out.println("howwww");
 		System.out.println("h");
+<<<<<<< HEAD
+=======
+		System.out.println("g");
+		System.out.println("o");
+>>>>>>> refs/heads/b1
 	}
 }
