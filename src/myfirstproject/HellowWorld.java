@@ -11,5 +11,6 @@ public class HellowWorld {
 		System.out.println("h");
 		System.out.println("g");
 		System.out.println("o");
+		System.out.println("hi");
 	}
 }
